@@ -6,6 +6,10 @@
   "scripts": {
     "start": "live-server"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vcbobby/platzi-bootstrap-5.git" // .git
+},
   "keywords": [],
   "author": "Víctor <castillovictor2461@gmail.com>",
   "license": "MIT",
