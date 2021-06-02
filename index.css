@@ -60,3 +60,21 @@
     color: white;
     text-decoration: none;
 }
+
+@media (max-width: 600px) {
+    #main img {
+        height: 100vh;
+    }
+    #navbarSupportedContent {
+        height: 100vh;
+    }
+    .nav-link {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 10vh;
+        font-size: 25px;
+        margin-top: 30px;
+        border-bottom: 2px solid gray;
+    }
+}
